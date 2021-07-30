@@ -1,9 +1,9 @@
 {
-  "name": "FGhazaleh/mars-rover",
+  "name": "Mars Rover",
   "authors": [
     {
-      "name": "Ghazaleh",
-      "email": "franco.ghazaleh@gmail.com"
+      "name": "İnan YAZILI",
+      "email": "inanyazili@gmail.com"
     }
   ],
   "require": {
@@ -11,12 +11,7 @@
   },
   "autoload": {
     "psr-4": {
-      "FGhazaleh\\": "src/FGhazaleh"
+      "core\\": "core"
     }
-  },
-  "require-dev": {
-    "phpunit/phpunit": "~5.0"
-  },
-  "license": "MIT",
-  "minimum-stability": "dev"
+  }
 }
