@@ -8,6 +8,7 @@ use \core\Move;
 use \core\Left;
 use \core\Right;
 
+// Default Input
 $input = [
   'position' => '0 0 N',
   'commands' => 'LMLMLMLMM'
